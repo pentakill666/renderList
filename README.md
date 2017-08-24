@@ -1,3 +1,3 @@
 # renderList
-a render dom framework
+a framework for render dom
 depend on jquery
